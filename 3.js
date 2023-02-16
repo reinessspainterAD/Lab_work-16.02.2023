@@ -1,3 +1,4 @@
+"use strict";
 const roadMines = [false, true, false, false, false, false, true, false, true, false];
 let hpTanck = 2;
 for (let index = 0; index < roadMines.length; index++) {
